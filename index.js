@@ -1,1 +1,1 @@
-console.log('Hello from Test SBX!');
+console.log('Hello from Sandbox 2!');
