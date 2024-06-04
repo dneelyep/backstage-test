@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: 'SBX 5'
+  name: 'Sbx132'
 spec:
   type: service
   owner: user:guest
