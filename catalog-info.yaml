@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-eval-api
+  annotations:
+    github.com/project-slug: dneelyep/backstage-test
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
